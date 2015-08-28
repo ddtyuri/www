@@ -14,16 +14,16 @@
             </div>
             
             <ul class="portfolio recent-work clearfix"> 
-                <li data-id="id-1" class="Mineral-processing-machine">
-                    <a href="portfolio_item.html">
-                    	<em class="overflow-hidden"><img src="assets/plugins/portfolioSorting/img/2.jpg" alt="" /></em>
+                <li data-id="id-1" class="Crusher-and-brick-machine">
+                    <a href="Hammer-Crusher.html">
+                    	<em class="overflow-hidden"><img src="assets/plugins/portfolioSorting/img/HammerCrusher1.jpg" alt="HammerCrusher" /></em>
                         <span>
-                            <strong>Mineral-processing-machine</strong>
-                            <i>Anim pariatur cliche reprehenderit</i>
+                            <strong>Hammer Crusher</strong>
+                            <i>also called hammer mill</i>
                         </span>
                     </a>
                 </li>
-                <li data-id="id-2" class="Crusher-and-brick-machine">
+                <li data-id="id-2" class="Mineral-processing-machine">
                     <a href="portfolio_item.html">
                     	<em class="overflow-hidden"><img src="assets/plugins/portfolioSorting/img/3.jpg" alt="" /></em>
                         <span>
