@@ -62,14 +62,13 @@
                         </li>
                         <li>
                             <a href="" class="dropdown-toggle" data-toggle="dropdown">Solution
+								<b class="caret"></b>
+							</a>	
                             <ul class="dropdown-menu">
 								<li><a href="Solution.html">All</a></li>
                                 <li><a href="Client-Site.html">Client Site</a></li>							
                                 <li><a href="Ores-and-Minerals.html">Ores and Minerals</a></li>
                             </ul>							
-                                <b class="caret"></b>                            
-                            </a>
-
                             <b class="caret-out"></b>                        
                         </li>
                         <li>
