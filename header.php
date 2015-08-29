@@ -63,6 +63,7 @@
                         <li>
                             <a href="" class="dropdown-toggle" data-toggle="dropdown">Solution
                             <ul class="dropdown-menu">
+								<li><a href="Solution.html">All</a></li>
                                 <li><a href="Client-Site.html">Client Site</a></li>							
                                 <li><a href="Ores-and-Minerals.html">Ores and Minerals</a></li>
                             </ul>							
