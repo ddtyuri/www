@@ -1,6 +1,6 @@
 	<!-- Our Clients -->
 	<div id="clients-flexslider" class="flexslider home clients">
-        <div class="headline"><h3>Our Solution</h3></div>	
+        <div class="headline"><h3>Ores and Minerals</h3></div>	
 		<ul class="slides">
 			<li>
                 <a href="#">

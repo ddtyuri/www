@@ -183,7 +183,7 @@
 
         <!-- Latest Shots -->
         <div class="span4">
-			<div class="headline"><h3>Client site</h3></div>
+			<div class="headline"><h3>Client Site</h3></div>
 			<div id="myCarousel" class="carousel slide">
                 <div class="carousel-inner">
                   <div class="item active">
