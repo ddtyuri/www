@@ -187,19 +187,19 @@
 			<div id="myCarousel" class="carousel slide">
                 <div class="carousel-inner">
                   <div class="item active">
-                    <img src="assets/img/carousel/5.jpg" alt="" />
+                    <a href=""><img src="assets/img/carousel/5.jpg" alt="" /></a>
                     <div class="carousel-caption">
                       <p>Cras justo odio, dapibus ac facilisis in, egestas.</p>
                     </div>
                   </div>
                   <div class="item">
-                    <img src="assets/img/carousel/4.jpg" alt="" />
+                    <a href=""><img src="assets/img/carousel/4.jpg" alt="" /></a>
                     <div class="carousel-caption">
                       <p>Cras justo odio, dapibus ac facilisis in, egestas.</p>
                     </div>
                   </div>
                   <div class="item">
-                    <img src="assets/img/carousel/3.jpg" alt="" />
+                    <a href=""><img src="assets/img/carousel/3.jpg" alt="" /></a>
                     <div class="carousel-caption">
                       <p>Cras justo odio, dapibus ac facilisis in, egestas.</p>
                     </div>

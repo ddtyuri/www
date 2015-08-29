@@ -3,5 +3,7 @@
 
 RewriteEngine On
 RewriteBase /
+
+RewriteRule ^(.*)-winnermac.html$ winnermac.php?id=$1
 RewriteRule ^(.*).html$ $1.php
 </IfModule>

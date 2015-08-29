@@ -4,7 +4,7 @@
 <!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->  
 <!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->  
 <head>
-    <title>Hammer Crusher</title>
+    <title>iron-ore</title>
 
     <!-- Meta -->
     <meta charset="utf-8" />
@@ -35,11 +35,11 @@
 <!--=== Breadcrumbs ===-->
 <div class="breadcrumbs margin-bottom-40">
 	<div class="container">
-        <h1 class="color-green pull-left">Hammer Crusher</h1>
+        <h1 class="color-green pull-left">iron-ore</h1>
         <ul class="pull-right breadcrumb">
             <li><a href="index.html">Home</a> <span class="divider">/</span></li>
-            <li><a href="product.html">Crusher-and-brick-machine</a> <span class="divider">/</span></li>
-            <li class="active">Hammer Crusher</li>
+            <li><a href="Ores-and-Minerals.html">Ores-and-Minerals</a> <span class="divider">/</span></li>
+            <li class="active">iron-ore</li>
         </ul>
     </div><!--/container-->
 </div><!--/breadcrumbs-->
@@ -53,24 +53,24 @@
             <div id="myCarousel" class="carousel slide">
                 <div class="carousel-inner">
                     <div class="item active">
-                        <img src="assets/img/carousel/Hammer-Crusher1.jpg" alt="Hammer-Crusher1" />
+                        <img src="assets/img/carousel/iron-ore1.jpg" alt="iron-ore" />
                         <div class="carousel-caption">
-                            <h4>The Features of Hammer Crusher:</h4>
-                            <p>The working hammer adopts new technology for casting, so that it is wear resistant and impact resistant.</p>
+                            <h4>Iron ores wiki:</h4>
+                            <p>Iron ores are rocks and minerals from which metallic iron can be economically extracted.</p>
                         </div>
                     </div>
                     <div class="item">
-                        <img src="assets/img/carousel/Hammer-Crusher2.jpg" alt="Hammer-Crusher2" />
+                        <img src="assets/img/carousel/iron-ore2.jpg" alt="iron-ore" />
                         <div class="carousel-caption">
-                            <h4>The Features of Hammer Crusher:</h4>
-                            <p> The granularity can be adjusted according to the requirement of the customers.</p>
+                            <h4>ores color:</h4>
+                            <p> The ores are usually rich in iron oxides and vary in color from dark grey, bright yellow, deep purple, to rusty red. </p>
                         </div>
                     </div>
                     <div class="item">
-                        <img src="assets/img/carousel/Hammer-Crusher3.jpg" alt="Hammer-Crusher3" />
+                        <img src="assets/img/carousel/iron-ore3.jpg" alt="iron-ore" />
                         <div class="carousel-caption">
-                            <h4>The Features of Hammer Crusher:</h4>
-                            <p>Hammer crusher has a sealed structure which solves the problems of powder dust pollution in the crushing workshop and ash leakage of the machine.</p>
+                            <h4>how to found ores:</h4>
+                            <p>The iron itself is usually found in the form of magnetite (Fe3O4), haematite (Fe2O3), goethite, limonite, siderite and etc.</p>
                         </div>
                     </div>
                 </div>
@@ -83,49 +83,14 @@
         <!-- //End Tabs and Carousel -->
         
         <div class="span5">
-        	<h3>Hammer Crusher</h3>
-            <p>
-Hammer crusher is used for crushing medium hard materials with weak abrasiveness, and the compression strength of the materials to be crushed should not exceed 100MPa, and the water content should be lower than 15％. The materials of hammer crusher are coal, salt, chalk, gypsum, tile and limestone and also fiber structure and broken wood and paper with strong elasticity and tenacity.
-			</p>
+        	<h3>iron-ore</h3>
+
 	<?php include 'productContact.php';?>
         </div>
     </div><!--/row-fluid-->
 
 	
-	
-<div class="container">		
-	<div class="row-fluid privacy">
-        <p class="lead"><em>The Application and Usage of Hammer Crusher:
-		</em></p><p>
-        </p><p>Hammer crusher, which is also called hammer mill or hammer crusher machine, is widely used for crushing the medium hard and crisp materials in mine, cement, coal, metallurgy, building material, highway and chemical industry.				</p><br>
-        <p class="lead"><em>The Inner Structure of Hammer Crusher:
-		</em></p><p>
-        </p><p>
-Hammer crusher is composed of machine box, rotor, hammer, impacting lining board and screen board. According to the requirement of the customers, this equipment can adjust the gap between the grating bars to change the discharging granularity. Welcome to Hongxing Machinery for visit and purchase.
-		</p><br>
-        <p class="lead"><em>The Working Principle of Hammer Crusher:
-		</em></p><p>
-        </p><p>
-The electromotor drives the rotor to rotate with high speed in the crushing chamber. The materials are fed into the machine from the upper feeding mouth and are crushed under the hitting, impacting, cutting and grinding of the hammer which is moving with high speed. On the bottom of the rotor, there is sieve plate and the crushed materials that is smaller than the screen size are discharged from the sieve plate, and the coarse particles bigger than the screen size are retained on the sieve plate to be hit and ground again by the hammer and finally be discharged from the machine from the sieve plate.
-		</p><br>
-        <p class="lead"><em>Technical Data:
-		</em></p>			
-    </div><!--/row-fluid-->  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-</div>	
 
 	
 	
@@ -135,17 +100,7 @@ The electromotor drives the rotor to rotate with high speed in the crushing cham
 	
 	
 	
-<div class="container portfolio-columns"> 	
-    <div class="row-fluid"> 
-        <div class="view view-tenth span6">
-        	<img src="assets/img/carousel/HammerCrushertable.jpg" alt="HammerCrushertable">
 
-        </div>
-
-    </div><!--/row-fluid-->
-
-
-</div>	
 	
 	
 	

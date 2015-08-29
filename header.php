@@ -2,13 +2,8 @@
 <div class="top">
     <div class="container">			
         <ul class="loginbar pull-right">
-            <li><i class="icon-globe"></i><a>FAQ <i class="icon-sort-up"></i></a>
-            	<ul class="nav-list">
-                	<li class="active"><a href="#">1</a> <i class="icon-ok"></i></li>
-                	<li><a href="#">2</a></li>
-                	<li><a href="#">3</a></li>
-                	<li><a href="#">4</a></li>
-                </ul>
+            <li><i class="icon-globe"></i><a href="#">FAQ <i class="icon-sort-up"></i></a>
+
             </li>	
             <li class="devider">&nbsp;</li>
             <li><a href="#" class="login-btn">Help</a></li>	
@@ -72,33 +67,27 @@
                             <b class="caret-out"></b>                        
                         </li>
                         <li>
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">News
-                                <b class="caret"></b>                            
+                            <a href="news.html" >News
+                                                       
                             </a>
 
                             <b class="caret-out"></b>                        
                         </li>
                         <li>
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">service
-                                <b class="caret"></b>                            
+                            <a href="service.html" >service
+                                                         
                             </a>
 
                             <b class="caret-out"></b>                        
                         </li>
                         <li>
-                            <a href="./contact-us.html" >Contact Us
+                            <a href="contact-us.html" >Contact Us
                                                         
                             </a>
 
                             <b class="caret-out"></b>                        
                         </li>
-                         <li>
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Blog
-                                <b class="caret"></b>                            
-                            </a>
-
-                            <b class="caret-out"></b>                        
-                        </li>                           
+                          
                     </ul>
 
                 </div><!-- /nav-collapse -->                                
