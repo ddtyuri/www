@@ -4,9 +4,9 @@
         <div id="w">    
             <div class="sort" id="sort">
 				<ul class="unstyled inline">
-                	<li><a href="#" class="all selected" style="font-size: 1em;">All</a></li>&nbsp;&nbsp;|
-                	<li><a id="Client-Site" href="#" class="Client-Site" style="font-size: 1em;">Client Site</a></li>&nbsp;&nbsp;|
-                	<li><a id="Ores-and-Minerals" href="#" class="Ores-and-Minerals" style="font-size: 1em;">Ores and Minerals</a></li>&nbsp;&nbsp;
+                	<li><a href="#" class="all selected" style="font-size: 0.7em;">ALL</a></li>&nbsp;&nbsp;|
+                	<li><a id="Client-Site" href="#" class="Client-Site" style="font-size: 0.7em;">CLIENT SITE</a></li>&nbsp;&nbsp;|
+                	<li><a id="Ores-and-Minerals" href="#" class="Ores-and-Minerals" style="font-size: 0.7em;">ORES AND MINERALS</a></li>&nbsp;&nbsp;
                 </ul>
             </div>
             

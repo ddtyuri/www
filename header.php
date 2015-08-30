@@ -87,7 +87,13 @@
 
                             <b class="caret-out"></b>                        
                         </li>
-                          
+                        <li>
+                            <a href="/blog" >Blog
+                                                        
+                            </a>
+
+                            <b class="caret-out"></b>                        
+                        </li>                          
                     </ul>
 
                 </div><!-- /nav-collapse -->                                
