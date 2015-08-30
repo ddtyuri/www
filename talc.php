@@ -4,7 +4,7 @@
 <!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->  
 <!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->  
 <head>
-    <title>iron-ore</title>
+    <title>talc</title>
 
     <!-- Meta -->
     <meta charset="utf-8" />
@@ -35,11 +35,11 @@
 <!--=== Breadcrumbs ===-->
 <div class="breadcrumbs margin-bottom-40">
 	<div class="container">
-        <h1 class="color-green pull-left">iron-ore</h1>
+        <h1 class="color-green pull-left">talc</h1>
         <ul class="pull-right breadcrumb">
             <li><a href="index.html">Home</a> <span class="divider">/</span></li>
             <li><a href="Ores-and-Minerals.html">Ores-and-Minerals</a> <span class="divider">/</span></li>
-            <li class="active">iron-ore</li>
+            <li class="active">talc</li>
         </ul>
     </div><!--/container-->
 </div><!--/breadcrumbs-->
@@ -49,44 +49,21 @@
 <div class="container portfolio-item"> 	
 	<div class="row-fluid margin-bottom-20"> 
 		<!-- Carousel -->
-        <div class="span7">
-            <div id="myCarousel" class="carousel slide">
-                <div class="carousel-inner">
-                    <div class="item active">
-                        <img src="assets/img/carousel/iron-ore1.jpg" alt="iron-ore" />
-                        <div class="carousel-caption">
-                            <h4>Iron ores wiki:</h4>
-                            <p>Iron ores are rocks and minerals from which metallic iron can be economically extracted.</p>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <img src="assets/img/carousel/iron-ore2.jpg" alt="iron-ore" />
-                        <div class="carousel-caption">
-                            <h4>ores color:</h4>
-                            <p> The ores are usually rich in iron oxides and vary in color from dark grey, bright yellow, deep purple, to rusty red. </p>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <img src="assets/img/carousel/iron-ore3.jpg" alt="iron-ore" />
-                        <div class="carousel-caption">
-                            <h4>how to found ores:</h4>
-                            <p>The iron itself is usually found in the form of magnetite (Fe3O4), haematite (Fe2O3), goethite, limonite, siderite and etc.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="carousel-arrow">
-                    <a data-slide="prev" href="#myCarousel" class="left carousel-control"><i class="icon-angle-left"></i></a>
-                    <a data-slide="next" href="#myCarousel" class="right carousel-control"><i class="icon-angle-right"></i></a>
-                </div>
-            </div>
-        </div><!--/span7-->
-        <!-- //End Tabs and Carousel -->
         
-        <div class="span5">
-        	<h3>iron-ore</h3>
-
-	<?php include 'productContact.php';?>
-        </div>
+        	<h3>introduction of Talc</h3>
+            <p>
+Talc is a type of hydrotherm alteration ore. After alteration, magnesite ore will becomes to talc, therefore talc is often seemed like olivine, enstatite, hornblende, tremolite. Talc is normal silicate minerals, and it is soft and creamy. Talc is the softest ore, Moh's hardness 1. Soft talc could be used to draw like chalk does. Talc exists in bulk, blade, threadiness or radial shape present white or gray, talc could present different color as the impurity contained, and hydrated magnesium silicate is the main element.Talc
+			</p>
+        	<h3>Technological Process of Talc</h3>
+            <p>
+Talc should be processed by powder grinding machine to different fineness for further appliment. With application range expanded, talc grinder mill is produced frequently and sold better. Aim to talc process, Winnermac powder grinding mill can process above 20mm material whose Moh's hardness is less than 6, and material should be non-flammable. Grinding roller assembly and roller were changed, material should be ground for many times from top to bottom, grinding rollers’ centrifugal force will be fully utilized, contact area of material and roller is large, fine powder would be produced, final size range between 5-45 micron.
+			</p>			
+        	<h3>Application Fields of Talc</h3>
+            <p>
+Talc has wide application area, for example, refractory matter, paper making, padding, insulating material, lubricant, pesticide absorber, leather coatings, and carving material. According to its application, talc could be divided into cosmetic grade, medicine and food grade, coating grade, paper making grade, plastic grade, rubber grade, cable grade, ceramic grade, fine talc powder, waterproof material grade, and talc products application area is very wide.
+			</p>	
+        
+		
     </div><!--/row-fluid-->
 
 	

@@ -27,6 +27,12 @@
                 </a>
             </li>
 			<li>
+                <a href="calcium-carbonate.html">
+                    <img src="assets/img/clients/calcium-carbonate.jpg" alt="calcium-carbonate" /> 
+                    <img src="assets/img/clients/calcium-carbonate.jpg" class="color-img" alt="calcium-carbonate" />
+                </a>
+            </li>			
+			<li>
                 <a href="coal.html">
                     <img src="assets/img/clients/coal.jpg" alt="coal" /> 
                     <img src="assets/img/clients/coal.jpg" class="color-img" alt="coal" />
