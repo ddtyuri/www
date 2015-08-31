@@ -21,7 +21,7 @@
             <li data-transition="papercut" data-slotamount="15" data-masterspeed="300" data-delay="9400" data-thumb="assets/img/sliders/revolution/thumbs/thumb2.jpg">
 
                 <!-- THE MAIN IMAGE IN THE SECOND SLIDE -->                                               
-                <img src="assets/img/sliders/revolution/banner2.jpg" />
+                <img  src="assets/img/sliders/revolution/banner2.jpg" />
 
                 
             </li>
@@ -30,7 +30,7 @@
             <li data-transition="slideleft" data-slotamount="1" data-masterspeed="300" data-thumb="assets/img/sliders/revolution/thumbs/thumb3.jpg">
 
                 <!-- THE MAIN IMAGE IN THE THIRD SLIDE -->                                               
-                <img src="assets/img/sliders/revolution/banner3.jpg" />
+                <img  src="assets/img/sliders/revolution/banner3.jpg" />
 
 
             </li>
