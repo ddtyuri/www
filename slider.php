@@ -6,7 +6,7 @@
             <li data-transition="3dcurtain-vertical" data-slotamount="10" data-masterspeed="300" data-thumb="assets/img/sliders/revolution/thumbs/thumb1.jpg">
 
                 <!-- THE MAIN IMAGE IN THE FIRST SLIDE -->
-                <img src="assets/img/sliders/revolution/bg1.jpg" />
+                <img src="assets/img/sliders/revolution/banner1.jpg" />
 
                 <div class="caption large_text sfb bg-black-opacity" data-x="176" data-y="12" data-speed="300" data-start="800" data-easing="easeOutExpo">
                      OVER 
@@ -21,7 +21,7 @@
             <li data-transition="papercut" data-slotamount="15" data-masterspeed="300" data-delay="9400" data-thumb="assets/img/sliders/revolution/thumbs/thumb2.jpg">
 
                 <!-- THE MAIN IMAGE IN THE SECOND SLIDE -->                                               
-                <img src="assets/img/sliders/revolution/bg2.jpg" />
+                <img src="assets/img/sliders/revolution/banner2.jpg" />
 
                 
             </li>
@@ -30,7 +30,7 @@
             <li data-transition="slideleft" data-slotamount="1" data-masterspeed="300" data-thumb="assets/img/sliders/revolution/thumbs/thumb3.jpg">
 
                 <!-- THE MAIN IMAGE IN THE THIRD SLIDE -->                                               
-                <img src="assets/img/sliders/revolution/bg3.jpg" />
+                <img src="assets/img/sliders/revolution/banner3.jpg" />
 
 
             </li>
