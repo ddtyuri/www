@@ -3,8 +3,7 @@
 
 
 
-
-  	
+	
 <!--=== Footer ===-->
 <div class="footer">
 	<div class="container">
@@ -12,7 +11,7 @@
 			<div class="span4">
                 <!-- About -->
 		        <div class="headline"><h3>About Us</h3></div>	
-				<p class="margin-bottom-25">Unify is an incredibly beautiful responsive Bootstrap Template for corporate and creative professionals.</p>	
+				<p class="margin-bottom-25">WinnerMac Co., Ltd committed to research and development Machines. We have professional team and provide you high quality with best service.</p>	
 
 	            <!-- Monthly Newsletter -->
 		        <div class="headline"><h3>Monthly Newsletter</h3></div>	
@@ -27,7 +26,7 @@
 			
 			<div class="span4">
                 <div class="posts">
-                    <div class="headline"><h3>Recent News Entries</h3></div>
+                    <div class="headline"><h3>Recent News</h3></div>
                     <dl class="dl-horizontal">
                         <dt><a href="#"><img src="assets/img/sliders/elastislide/6.jpg" alt="" /></a></dt>
                         <dd>
@@ -53,11 +52,11 @@
 	            <!-- Monthly Newsletter -->
 		        <div class="headline"><h3>Contact Us</h3></div>	
                 <address>
-					25, Lorem Lis Street, Orange <br />
-					California, US <br />
-					Phone: 800 123 3456 <br />
-					Fax: 800 123 3456 <br />
-					Email: <a href="mailto:info@anybiz.com" class="">info@anybiz.com</a>
+					No.6 of Cuizhu Boulevard<br />
+					High-Tech and Developing District ,Zhengzhou,China ,450000<br />
+					Phone: +86 157 38800866<br />
+					Phone: +86 185 30979990<br />
+					Email: <a href="mailto:sales@winnermac.com" class="">sales@winnermac.com</a>
                 </address>
 
                 <!-- Stay Connected -->

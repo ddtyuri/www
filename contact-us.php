@@ -54,7 +54,7 @@
 	<div class="row-fluid">
 		<div class="span9">
             <div class="headline"><h3>Contacts</h3></div>
-            <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas feugiat. Et harum quidem rerum facilis est et expedita distinctio lorem ipsum dolor sit amet, consectetur adipiscing elit landitiis.</p><br />
+            <p>You can get the price list and a SBM representative will contact you within one business day.</p><br />
 			<form />
                 <label>Name</label>
                 <input type="text" class="span7 border-radius-none" />
@@ -70,27 +70,21 @@
         	<!-- Contacts -->
             <div class="headline"><h3>Contacts</h3></div>
             <ul class="unstyled who margin-bottom-20">
-                <li><a href="#"><i class="icon-home"></i>5B Streat, City 50987 New Town US</a></li>
-                <li><a href="#"><i class="icon-envelope-alt"></i>info@example.com</a></li>
-                <li><a href="#"><i class="icon-phone-sign"></i>1(222) 5x86 x97x</a></li>
-                <li><a href="#"><i class="icon-globe"></i>http://www.example.com</a></li>
+                <li><a href="#"><i class="icon-home"></i>No.6 of Cuizhu Boulevard,High-Tech and Developing District,Zhengzhou,China ,450000</a></li>
+                <li><a href="#"><i class="icon-envelope-alt"></i>sales@winnermac.com</a></li>
+                <li><a href="#"><i class="icon-phone-sign"></i>+86 157 38800866</a></li>
+                <li><a href="#"><i class="icon-phone-sign"></i>+86 185 30979990</a></li>
             </ul>
 
-        	<!-- Business Hours -->
-            <div class="headline"><h3>Business Hours</h3></div>
-            <ul class="unstyled">
-            	<li><strong>Monday-Friday:</strong> 10am to 8pm</li>
-            	<li><strong>Saturday:</strong> 11am to 3pm</li>
-            	<li><strong>Sunday:</strong> Closed</li>
-            </ul>
+
 
         	<!-- Why we are? -->
-            <div class="headline"><h3>Why we are?</h3></div>
-            <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum.</p>
+            <div class="headline"><h3>Why Us?</h3></div>
+            <p>Over last 6 years, WinnerMac already sold her products to USA, Canada, Germany, United Kingdom, Denmark, Sweden, Poland, Italy, Greece, Australia, New Zealand, Japan, Korean, India, South Africa, and so on. We are always on the way, never stop….</p>
             <ul class="unstyled">
-            	<li><i class="icon-ok color-green"></i> Odio dignissimos ducimus</li>
-            	<li><i class="icon-ok color-green"></i> Blanditiis praesentium volup</li>
-            	<li><i class="icon-ok color-green"></i> Eos et accusamus</li>
+            	<li><i class="icon-ok color-green"></i> Automation Production Capability </li>
+            	<li><i class="icon-ok color-green"></i> Innovation capability </li>
+            	<li><i class="icon-ok color-green"></i> Quality Control Capability</li>
             </ul>
         </div><!--/span3-->
     </div><!--/row-fluid-->        

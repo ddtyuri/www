@@ -48,13 +48,13 @@
 <div class="container">		
 	<div class="row-fluid margin-bottom-30">
     	<div class="span6">
-            <p>Unify is an incredibly beautiful responsive Bootstrap Template for corporate and creative professionals. It works on all major web browsers, tablets and phone. Lorem sequat ipsum dolor lorem sit amet, consectetur adipiscing dolor elit. Unify is an incredibly beautiful responsive Bootstrap Template for It works on all major web.</p>
+            <p>Good service is the promise for every company .For us quality service means only one thing : we are all questions for you , we think with you and find the best solution .If it is not yet give ,we will break new ground for you .Therefore ,customers service is the task for all departments ,for all of WinnerMac employees . Questions and challenge us ,we will take care of the details and provide the answers , to make it as easy as possible.</p>
             <ul class="unstyled">
-                <li><i class="icon-ok color-green"></i> Donec id elit non mi porta gravida</li>
-                <li><i class="icon-ok color-green"></i> Corporate and Creative</li>
-                <li><i class="icon-ok color-green"></i> Responsive Bootstrap Template</li>
-                <li><i class="icon-ok color-green"></i> Elit non mi porta gravida</li>
-                <li><i class="icon-ok color-green"></i> Award winning digital agency</li>
+                <li><i class="icon-ok color-green"></i> Automation Production Capability</li>
+                <li><i class="icon-ok color-green"></i> Innovation capability </li>
+                <li><i class="icon-ok color-green"></i> Mass Production Capability</li>
+                <li><i class="icon-ok color-green"></i> Quality Control Capability</li>
+
             </ul><br />
 
             <!-- Blockquotes -->

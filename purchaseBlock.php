@@ -2,8 +2,8 @@
 <div class="row-fluid purchase margin-bottom-30">
     <div class="container">
 		<div class="span9">
-            <span>Unify is a clean and fully responsive incredible Template.</span>
-            <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi  vehicula sem ut volutpat. Ut non libero magna fusce condimentum eleifend enim a feugiat.</p>
+            <span>Welcome to WinnerMac</span>
+            <p>We shall try to create mutualwin situation by our professional technology and best services.</p>
         </div>
         <a href="#" class="btn-buy hover-effect">Order Now</a>
     </div>

@@ -44,8 +44,8 @@
     		<div class="service clearfix">
                 <i class="icon-resize-small"></i>
     			<div class="desc">
-    				<h4>Fully Responsive</h4>
-                    <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus etiam sem...</p>
+    				<h4>Reasonable price</h4>
+                    <p>We frequently strive to offer better, flexible and win-win price.</p>
     			</div>
     		</div>	
     	</div>
@@ -53,8 +53,8 @@
     		<div class="service clearfix">
                 <i class="icon-cogs"></i>
     			<div class="desc">
-    				<h4>HTML5 + CSS3</h4>
-                    <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus etiam sem...</p>
+    				<h4>INDUSTRY EXPERIENCE</h4>
+                    <p>Our experienced staff work together well to assurance quality under effective ISO quality management system.</p>
     			</div>
     		</div>	
     	</div>
@@ -62,8 +62,8 @@
     		<div class="service clearfix">
                 <i class="icon-plane"></i>
     			<div class="desc">
-    				<h4>Launch Ready</h4>
-                    <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus etiam sem...</p>
+    				<h4>MARKETING NETWORK</h4>
+                    <p>Our products are exported to Europe,America, Africa and other Asian counties with safety certificates, we offer our best service to customers all over the world.</p>
     			</div>
     		</div>	
     	</div>			    
@@ -167,16 +167,16 @@
     	<!-- Who We Are -->
 		<div class="span8">
 			<div class="headline"><h3>Welcome To WinnerMac</h3></div>
-			<p><img class="pull-left lft-img-margin img-width-200" src="assets/img/carousel/6.jpg" alt="" />Unify is an incredibly beautiful responsive Bootstrap Template for corporate and creative professionals. It works on all major web browsers, tablets and phone.</p>	
+			<p><img class="pull-left lft-img-margin img-width-200" src="assets/img/carousel/6.jpg" alt="" />WinnerMac Co., Ltd committed to research and development Machines. We have professional team and provide you high quality with best service.</p>	
             <ul class="unstyled">
-            	<li><i class="icon-ok color-green"></i> Donec id elit non mi porta gravida</li>
-            	<li><i class="icon-ok color-green"></i> Corporate and Creative</li>
-            	<li><i class="icon-ok color-green"></i> Responsive Bootstrap Template</li>
-            	<li><i class="icon-ok color-green"></i> Corporate and Creative</li>
+            	<li><i class="icon-ok color-green"></i> Automation Production Capability </li>
+            	<li><i class="icon-ok color-green"></i> Innovation Capability</li>
+            	<li><i class="icon-ok color-green"></i> Mass Production Capability</li>
+            	<li><i class="icon-ok color-green"></i> Quality Control Capability</li>
             </ul><br />
 
             <blockquote class="hero-unify">
-                <p>Award winning digital agency. We bring a personal and effective approach to every project we work on, which is why. Unify is an incredibly beautiful responsive Bootstrap Template for corporate professionals.</p>
+                <p>Award winning digital agency. We bring a personal and effective approach to every project we work on, which is why.</p>
                 <small>CEO, Jack Bour</small>
             </blockquote>
         </div><!--/span8-->        
