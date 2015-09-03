@@ -9,8 +9,11 @@ mysql_select_db(DBNAME,$link);
 
 
 $name = $_POST['name'];
+$name = htmlspecialchars($name, ENT_QUOTES);
 $email = $_POST['email'];
+$email = htmlspecialchars($email, ENT_QUOTES);
 $message = $_POST['message'];
+$message = htmlspecialchars($message, ENT_QUOTES);
 $time = time();
 $ip = $_SERVER["REMOTE_ADDR"];
 
