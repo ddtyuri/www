@@ -76,8 +76,7 @@
 
     
     <div id="mws-wrapper">
-		<div id="mws-sidebar-stitch"></div>
-		<div id="mws-sidebar-bg"></div>
+
 
 		
 		
@@ -123,17 +122,17 @@
 
 								<?php
 												//数据库配置信息
-						define("HOST","127.0.0.1");	//主机名
+						define("HOST","localhost");	//主机名
 						define("USER","ddtyuri");		//账号
-						define("PASS","ddtyuri");		//密码
-						define("DBNAME","paper");	//数据库名		
+						define("PASS","yurixx");		//密码
+						define("DBNAME","ddtyuri");	//数据库名		
 					//1.导入配置文件
 					//2.连接MySQL，选择数据库
 						$link = @mysql_connect(HOST,USER,PASS) or die("数据库连接失败！");
 						mysql_select_db(DBNAME,$link);
 						mysql_query("set names utf8");
 					//3. 执行查询，并返回结果集
-						$sql = "select * from paper order by id desc";
+						$sql = "select * from paper order by id asc";
 						$result = mysql_query($sql,$link);
 						
 					//4. 解析结果集,并遍历输出
