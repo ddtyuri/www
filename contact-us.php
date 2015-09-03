@@ -54,7 +54,7 @@
 	<div class="row-fluid">
 		<div class="span9">
             <div class="headline"><h3>Contacts</h3></div>
-            <p>You can get the price list and a SBM representative will contact you within one business day.</p><br />
+            <p>You can get the price list and a WinnerMac representative will contact you within one business day.</p><br />
 			<form />
                 <label>Name</label>
                 <input type="text" class="span7 border-radius-none" />
