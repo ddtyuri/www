@@ -2,13 +2,13 @@
 <div class="top">
     <div class="container">			
         <ul class="loginbar pull-right">
-            <li><i class="icon-globe"></i><a href="#">FAQ <i class="icon-sort-up"></i></a>
+            <li><i class="icon-globe"></i><a href="#">grinding mill <i class="icon-sort-up"></i></a>
 
             </li>	
             <li class="devider">&nbsp;</li>
-            <li><a href="#" class="login-btn">Help</a></li>	
+            <li><a href="#" class="login-btn">rotary dryer</a></li>	
             <li class="devider">&nbsp;</li>
-            <li><a href="#" class="login-btn">Order</a></li>	
+            <li><a href="#" class="login-btn">pellet mill</a></li>	
         </ul>
     </div>		
 </div><!--/top-->
